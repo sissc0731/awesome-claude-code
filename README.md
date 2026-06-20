@@ -15,6 +15,7 @@
 - [💬 提示词精选](#-提示词精选)
 - [🛠 实用技能 (Skills)](#-实用技能-skills)
 - [🔌 MCP 工具](#-mcp-工具)
+- [🧰 工作流工具](#-工作流工具)
 - [📖 实战教程](#-实战教程)
 - [🏗 项目案例](#-项目案例)
 - [🎨 GitHub Profile 美化](#-github-profile-美化)
@@ -121,6 +122,10 @@
 - **Puppeteer** — 浏览器自动化
 - **Brave Search** — 网络搜索
 - **Memory** — 持久化记忆
+
+## 🧰 工作流工具
+
+- [ax](https://github.com/Necmttn/ax) — Claude Code 本地遥测图谱，记录会话、工具调用、成本估算和技能使用情况
 
 ## 📖 实战教程
 
