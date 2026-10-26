@@ -119,6 +119,7 @@
 - **GitHub** — 仓库/Issue/PR 管理
 - **Postgres/SQLite** — 数据库查询
 - **Puppeteer** — 浏览器自动化
+- **[agent-qa](https://vostride.com)** — Web、Android 和 iOS 自然语言测试，具备持久记忆引擎与经验证的自我改进
 - **Brave Search** — 网络搜索
 - **Memory** — 持久化记忆
 
